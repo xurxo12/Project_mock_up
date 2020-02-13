@@ -1,5 +1,3 @@
-#stuff
-
 PROGRAM HELLO
   IMPLICIT NONE
   

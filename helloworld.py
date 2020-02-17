@@ -1,5 +1,8 @@
 
 # simple python code
 
-print("Hello, howdy?,this is a test for pull request")
+print("Hello, howdy?")
+print("Hola, soc el Kilian")
 
+
+print("Conflict resolved!!")
